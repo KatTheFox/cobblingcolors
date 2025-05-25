@@ -1,0 +1,14 @@
+{
+  "disabledDimensions": [],
+  "announce": true,
+  "restrictedDimensionMessage": "\u0026c%dimension% dimension is restricted",
+  "timedDimensionRestrictedMessage": "\u0026eRestricted till \u00266%time%",
+  "unrestrictedAnnouncementMessage": "\u0026a%dimension% dimension is now open!",
+  "timeRestrictions": {
+    "minecraft:the_end": {
+      "enabled": false,
+      "timeZone": "UTC",
+      "unlockDateTime": "2024-12-31T23:59:59"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+vaultCooldown = 1
+timeType = "HOURS"
+shouldRenderWhenInactive = true
+inactiveRotationSpeed = 50
+spawnBeamParticles = true
+# Smaller means its more likely to spawn beams
+beamParticleChance = 100
