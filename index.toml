@@ -369,6 +369,10 @@ file = "config/lunar.toml"
 hash = "033e214a011834954a93fb01e7da0c2418d1cd6e54b267803feaf56d48e2af3c"
 
 [[files]]
+file = "config/methane.json"
+hash = "1737b4383bbb17e10de9cb8679784f8ab5db5d7ddc7470f0c2a7ba4f7ca323c4"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387"
 
@@ -1344,4 +1348,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "56d8b8660680c5bb35fc638f9d87329f3fdea12ebc3b2558b2fd47beaa46450c"
+hash = "3e5c66f4520903cab67ab7815b286566ce95941afa3ad44e7881e198541f1b89"
