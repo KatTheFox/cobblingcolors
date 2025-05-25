@@ -617,6 +617,14 @@ file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
+file = "datapacks/ScarlettRecipeChanges.zip"
+hash = "e90fc5916c0c9f5278b4224f12e99ac305e1bc03ca0eb2aee06813449cd14812"
+
+[[files]]
+file = "datapacks/SpectrumCobblemonIntegrationDatapack.zip"
+hash = "8fe123e21959147cac890437b3a006eacb8e233d71cd993c1c15eb333b04c119"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "f155441f420149bf1aaa26369f812dae328c870bdc2dd7ae842913d72bb27ab0"
 metafile = true
@@ -1342,7 +1350,7 @@ hash = "2a92ba6bd13fd04dd20b2e0b7e7ad9e59383ca1fbe4fa076413b50b0ad8034ce"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xaeroscobblemon.pw.toml"
+file = "required_resourcepacks/xaeroscobblemon.pw.toml"
 hash = "b19f0122d75d61a0545cbe6a6c2cd8efd2aa8e79eac3e69cc52765aeab205734"
 metafile = true
 
