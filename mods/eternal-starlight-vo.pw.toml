@@ -1,0 +1,13 @@
+name = "Eternal Starlight Vanilla Ores"
+filename = "Eternal_Starlight_VO-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vlMtLQ1s/versions/VznZvn7E/Eternal_Starlight_VO-1.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "aa2ab22ee09da3e83ffedd0cb14876d6892189b7544c00247b7f7180a79131474dd8ffb0e9154c8b53859feb013833e1b028033d764554f036f4e63fa2371a30"
+
+[update]
+[update.modrinth]
+mod-id = "vlMtLQ1s"
+version = "VznZvn7E"

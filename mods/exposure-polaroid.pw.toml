@@ -1,0 +1,13 @@
+name = "Exposure: Polaroid"
+filename = "exposure_polaroid-fabric-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cab22fae41efaab18e32fd08ea3b45d954af999a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6401331
+project-id = 1207005

@@ -1,0 +1,13 @@
+name = "Cobblemon: Parting Gifts"
+filename = "releaserewards-fabric-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd32ddcc31854ea0b12e96480e5fea605a27465c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6412525
+project-id = 1169308

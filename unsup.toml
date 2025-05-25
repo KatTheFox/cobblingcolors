@@ -1,0 +1,76 @@
+[flavor_groups.lighting]
+name="Lighting"
+description="Toggles whether lighting is enabled (sodium) or disabled (methane)"
+side="client"
+[[flavor_groups.lighting.choices]]
+id="lighting_on"
+name="Enabled"
+description="The default. Sodium will be installed"
+[[flavor_groups.lighting.choices]]
+id="lighting_off"
+name="Disabled"
+description="Methane will be installed, granting fullbright"
+
+[flavor_groups.map]
+name="Map Mod"
+description="Which, if any, map mods to install"
+side="client"
+[[flavor_groups.map.choices]]
+id="xaeros"
+name="Xaero's"
+description="Installs Xaero's Minimap and Xaero's World Map"
+[[flavor_groups.map.choices]]
+id="journeymap"
+name="Journeymap"
+description="Installs Journeymap"
+[[flavor_groups.map.choices]]
+id="nomap"
+name="No Map"
+description="No map mods shall be installed"
+
+[flavor_groups.advancements]
+name="Advancements Display"
+description="Which advancement display mod to install"
+side="client"
+[[flavor_groups.advancements.choices]]
+id="paginated"
+name="Paginated Advancements"
+description="by DaFuqs. Breaks Cerulean's advancements display"
+[[flavor_groups.advancements.choices]]
+id="betteradv"
+name="Better Advancements"
+description="by way2muchnoise. Likely breaks Cerulean's advancements display"
+[[flavor_groups.advancements.choices]]
+id="noadv"
+name="None"
+description="Only sure way to not break Cerulean's advancements display; however, your advancements screen will be ten pixels wide"
+
+[metafile.sodium]
+flavors="lighting_on"
+[metafile.sodium-options-api]
+flavors="lighting_on"
+[metafile.dynamiclights-reforged]
+flavors="lighting_on"
+[metafile.reeses-sodium-options]
+flavors="lighting_on"
+
+[metafile.methane]
+flavors="lighting_off"
+
+[metafile.xaeros-minimap]
+flavors="xaeros"
+[metafile.xaeros-world-map]
+flavors="xaeros"
+[metafile.xaeroscobblemon]
+flavors="xaeros"
+
+[metafile.journeymap]
+flavors="journeymap"
+
+[metafile.paginatedadvancements]
+flavors="paginated"
+
+[metafile.better-advancements]
+flavors="betteradv"
+
+

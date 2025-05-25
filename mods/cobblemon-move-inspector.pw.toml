@@ -1,0 +1,13 @@
+name = "Cobblemon Move Inspector"
+filename = "CobblemonMoveInspector-fabric-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf5adae06e5ef0bab5e584059266d2b75be380f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6041810
+project-id = 1022036

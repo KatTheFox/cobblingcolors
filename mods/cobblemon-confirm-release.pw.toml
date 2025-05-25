@@ -1,0 +1,13 @@
+name = "Cobblemon Confirm Let Go"
+filename = "cobblemon-confirmrelease-1.6-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6f575a3afc99a14b16a851da69d0082ceaf1253"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6386186
+project-id = 1235781

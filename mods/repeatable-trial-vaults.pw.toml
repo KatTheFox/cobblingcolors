@@ -1,0 +1,13 @@
+name = "Repeatable Trial Vaults"
+filename = "repeatable_trial_vaults-fabric-1.21-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f5330ef0bf5c049a2d1c0ebe7aefd4657030fcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5643911
+project-id = 1070541

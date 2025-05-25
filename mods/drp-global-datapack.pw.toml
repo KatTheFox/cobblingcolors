@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "globalpacks-fabric-1.21.1-21.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7ffa2f2bf07b519883e3297e44d2fd946d58910"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6523111
+project-id = 317134

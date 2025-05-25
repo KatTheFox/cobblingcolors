@@ -1,0 +1,13 @@
+name = "ShetiPhianCore [Fabric]"
+filename = "shetiphiancore-fabric-1.21.1-0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d64b177f98aa949a1280f4046864411457455a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6098499
+project-id = 536603

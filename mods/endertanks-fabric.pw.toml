@@ -1,0 +1,13 @@
+name = "EnderTanks [Fabric]"
+filename = "endertanks-fabric-1.21.1-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5e1e272059bc05c3b84e594b50bc2f979a38157"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6044517
+project-id = 811191

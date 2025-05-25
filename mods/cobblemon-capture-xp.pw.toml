@@ -1,0 +1,13 @@
+name = "Cobblemon Capture XP"
+filename = "cobblemon-capturexp-1.6-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3180b3c20f6cfdde02118b2c74b33518db9eafdd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6559890
+project-id = 901059

@@ -1,0 +1,13 @@
+name = "Gate Keep"
+filename = "GateKeep-1.21.x-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91df212e883757015eb5f9b9df213f63629884c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6465448
+project-id = 1252044
